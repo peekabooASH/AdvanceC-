@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\14 October Practice\ClassApp\ClassApp\bin\Debug\ClassApp.exe.config
+C:\Users\PC21\Desktop\14 October Practice\ClassApp\ClassApp\bin\Debug\ClassApp.exe
+C:\Users\PC21\Desktop\14 October Practice\ClassApp\ClassApp\bin\Debug\ClassApp.pdb
+C:\Users\PC21\Desktop\14 October Practice\ClassApp\ClassApp\obj\Debug\ClassApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\14 October Practice\ClassApp\ClassApp\obj\Debug\ClassApp.exe
+C:\Users\PC21\Desktop\14 October Practice\ClassApp\ClassApp\obj\Debug\ClassApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ClassApp\ClassApp\bin\Debug\ClassApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ClassApp\ClassApp\obj\Debug\ClassApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ClassApp\ClassApp\obj\Debug\ClassApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\ClassApp\ClassApp\bin\Debug\ClassApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\ClassApp\ClassApp\obj\Debug\ClassApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\ClassApp\ClassApp\obj\Debug\ClassApp.pdb
